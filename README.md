@@ -1,6 +1,6 @@
-# VedIntel AstroAPI examples
+# VedIntel™ AstroAPI examples
 
-Minimal, copy-paste examples for [VedIntel AstroAPI](https://vedintelastroapi.com/?utm_source=github&utm_campaign=launch_oct26): a REST API for Vedic astrology (kundli, planet positions, panchang, matching and more). Calculations run on a commercially licensed Swiss Ephemeris (Professional License from Astrodienst).
+Minimal, copy-paste examples for [VedIntel™ AstroAPI](https://vedintelastroapi.com/?utm_source=github&utm_campaign=launch_oct26): a REST API for Vedic astrology (kundli, planet positions, panchang, matching and more). Calculations run on a commercially licensed Swiss Ephemeris (Professional License from Astrodienst).
 
 ## First call in 2 minutes
 
